@@ -216,7 +216,7 @@ _P.S.如果自己有服务器，也可以将程序发布到自己的服务器，
 
 ![赞赏码](https://cdn.jsdelivr.net/gh/RayWangQvQ/BiliBiliTool.Docs@main/imgs/donate.jpg)
 
-## 7. API 参考
+## 7. API 参
 
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
 
